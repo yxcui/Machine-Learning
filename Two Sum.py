@@ -24,4 +24,4 @@ class Solution(object):
 if __name__ == "__main__":
     s = Solution()
     indices = s.twoSum([0, 4, 3, 0], 0)    # Get a List containing several tuples(>=0)
-    print indices
+    print "place modified"
